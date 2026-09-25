@@ -8,7 +8,7 @@
 ## 🛠️ Tecnologías que uso por diversión
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,astro,tailwind,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,cs,dotnet,js,ts,astro,svelte,tailwind,bun,qt,postgres,arduino,linux,nix,obsidian" />
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ## 📊 Mis stats en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theneillsaaco&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theneillsaaco&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Theneillsaaco&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Theneillsaaco&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
