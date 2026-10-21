@@ -1,6 +1,6 @@
 # Isaac De Peña
 
-**Aerospace Engineering Student | Software Development Enthusiast**
+**Prospective Aerospace Engineering Student | Software Development Enthusiast**
 
 I am an Aerospace Engineering student with a strong passion for software development. I build personal projects, explore modern tech stacks, and collaborate on software solutions for academic and community initiatives. My goal is to apply modern software engineering principles to aerospace systems and computational simulations.
 
