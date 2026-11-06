@@ -48,5 +48,6 @@ I am a Prospective Aerospace Engineering Student with a strong passion for softw
 - **Matrix:** @theneillsaaco:matrix.org
 - **Discord:** theneillsaaco
 - **Email:** isaacdepena18@gmail.com and my public PGP key `F7E54B44FDB522DA7693C1454682524B073143C7`
-- ****
+
+---
 
